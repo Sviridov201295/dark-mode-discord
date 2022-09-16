@@ -1,6 +1,6 @@
 
 /****GOOGLE/BD FONTS****/
-@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
 @import url('https://nfld99.github.io/Better-Discord/Source_Code/Addons/Use_Fonts/DiscordFont.css');
 @import url('https://fonts.googleapis.com/css2?family=Poiret+One&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap');
@@ -232,7 +232,7 @@ letter-spacing: 2px;
 .theme-dark .placeholder-1rCBhr::before {
   content: "Life is so much easier when you just take a time to chill";
   color: rgba(255, 255, 255, 0.200);
-  font-family: "Poppins";
+  font-family: "Open Sans";
   font-size: 20px;
   visibility: visible!important;
 }
@@ -703,12 +703,12 @@ opacity: 0;
 }
 /*custom channel and text area font and size*/
 .channelName-3KPsGw  {
-  font-family: "Poppins";
+  font-family: "Open Sans";
   font-size: 20px!important;
 }
 .messageContent-2t3eCI, .contents-2MsGLg {
-  font-family: Poppins;
-  font-size: 40px!important;
+  font-family: "Open Sans";
+  font-size: 15px!important;
 }
 /*custom public servers and create server buttons*/
 /*custom public servers and create server buttons*/
