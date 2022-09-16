@@ -1,5 +1,6 @@
 
 /****GOOGLE/BD FONTS****/
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
 /*@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');*/
 @import url('https://nfld99.github.io/Better-Discord/Source_Code/Addons/Use_Fonts/DiscordFont.css');
 @import url('https://fonts.googleapis.com/css2?family=Poiret+One&display=swap');
@@ -10,7 +11,7 @@
 /****ADDONS****/
 @import url("https://mwittrien.github.io/BetterDiscordAddons/Themes/BlurpleRecolor/BlurpleRecolor.css");
 @import url('https://discordstyles.github.io/RadialStatus/dist/RadialStatus.css');
-@import url("https://sviridov201295.github.io/dark-mode-discord/tag.css");
+@import url("https://warrayquipsome.github.io/Chillax/ChillaxTag.css");
 @import url("https://warrayquipsome.github.io/Chillax/SettingsModalEdited.css");
 @import url("https://crearts-community.github.io/Friends-Grid/theme.css");
 @import url("https://neodymium7.github.io/BetterDiscordStuff/CSS/AddServerDarkMode.css");
@@ -24,8 +25,8 @@ display: var(--version2_0, block);
 background: rgba(0, 0, 0, .5);
 backdrop-filter: blur(5px);
 color: #fff;
-font-size: 40px;
-font-weight: 400;
+font-size: 14px;
+font-weight: 100;
 line-height: 50px;
 width: 500px;
 text-align: center;
@@ -170,7 +171,7 @@ display: none !important;
 }
 .theme-dark .wordmark-2u86JB::before{
 content:'‏‏‎ s v i r i d o v';
-font-size: 20px;
+font-size: 12px;
 font-family: "Poiret one"!important;
 position:fixed;
 color: rgb(255, 255, 255);
@@ -194,7 +195,7 @@ letter-spacing: 2px;
   color: #000!important;
   box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.1);
   font-family: "Roboto";
-  font-size: 20px;
+  font-size: 12px;
 }
 .theme-dark .lookFilled-yCfaCM:hover {
     box-shadow: -3px -3px 7px #cfcfcf inset, 3px 3px 7px #949aa1 inset;
@@ -232,8 +233,8 @@ letter-spacing: 2px;
 .theme-dark .placeholder-1rCBhr::before {
   content: "Life is so much easier when you just take a time to chill";
   color: rgba(255, 255, 255, 0.200);
-  font-family: "Open Sans";
-  font-size: 20px;
+  font-family: "Montserrat";
+  font-size: 13px;
   visibility: visible!important;
 }
 /* Replace Wandering Cubes Spinner/loading discord image with gif*/
@@ -323,7 +324,7 @@ color: transparent !important;
 transition: color 0.3s 0.1s, padding 0.4s;
 }
 .newMessagesBar-1hF-9G.barBase-3xxDXu:hover > button {
-font-size: 20px;
+font-size: 14px;
 color: #ffffff !important;
 transition: color 0.3s 0.1s, padding 0.4s;
 }
@@ -611,7 +612,7 @@ opacity: 0;
 .container-ZMc96U.themed-Hp1KC_ .search-39IXmY {order: -1!important;}
 /*channel resize*/
 .sidebar-1tnWFu .name-28HaxV {
-    font-size: 20px;
+    font-size: 14px;
 }
 .sidebar-1tnWFu .icon-2W8DHg {
     width: 16px;
@@ -686,7 +687,7 @@ opacity: 0;
 .unreadPill-3nEWYM {
     background-color: var(--background-shading);
     color: #fb5454;
-    font-size: 20px;
+    font-size: 12px;
     letter-spacing: 20px;
     right: 50%;
     left: 50%;
@@ -703,12 +704,12 @@ opacity: 0;
 }
 /*custom channel and text area font and size*/
 .channelName-3KPsGw  {
-  font-family: "Open Sans";
-  font-size: 20px!important;
+  font-family: "Montserrat";
+  font-size: 12px!important;
 }
 .messageContent-2t3eCI, .contents-2MsGLg {
-  font-family: Open Sans;
-  font-size: 15px!important;
+  font-family: Montserrat;
+  font-size: 13px!important;
 }
 /*custom public servers and create server buttons*/
 /*custom public servers and create server buttons*/
@@ -1199,12 +1200,12 @@ width: auto;
 .theme-dark .children-1xdcWE .disableButton-3BR0Vj.colorRed-rQXKgM::before {
   content: "Disable";
   position: absolute;
-  font-size: 20px!important;
+  font-size: 11px!important;
 }
 .theme-dark .children-1xdcWE .lookOutlined-3yKVGo.colorRed-rQXKgM::before {
   content: "Delete";
   position: absolute;
-  font-size: 20px!important;
+  font-size: 11px!important;
 }
 /*seperator in settings*/
 .theme-dark .separator-2wx7h6 {
@@ -1613,7 +1614,7 @@ height: 218px!important;
 }
 .art-3sVxAs ~ .footer-31IekZ > .button-f2h6uQ:after{
   content: 'Back to safety';
-  font-size: 20px;
+  font-size: 12px;
 }
 /* pin home and add/public server */
 .scroller-3X7KbA {
@@ -1778,7 +1779,7 @@ opacity: var(--transparency);
     margin-right: -3px;
 }
 .blockedSystemMessage-3FmE9n .content-vSHmMD {
-    font-size: 20px !important;
+    font-size: 12px !important;
     font-weight: 500;
     padding: 1px 0;
     text-transform: uppercase;
