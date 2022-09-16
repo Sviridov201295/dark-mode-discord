@@ -323,7 +323,7 @@ color: transparent !important;
 transition: color 0.3s 0.1s, padding 0.4s;
 }
 .newMessagesBar-1hF-9G.barBase-3xxDXu:hover > button {
-font-size: 14px;
+font-size: 20px;
 color: #ffffff !important;
 transition: color 0.3s 0.1s, padding 0.4s;
 }
@@ -611,7 +611,7 @@ opacity: 0;
 .container-ZMc96U.themed-Hp1KC_ .search-39IXmY {order: -1!important;}
 /*channel resize*/
 .sidebar-1tnWFu .name-28HaxV {
-    font-size: 14px;
+    font-size: 20px;
 }
 .sidebar-1tnWFu .icon-2W8DHg {
     width: 16px;
@@ -686,7 +686,7 @@ opacity: 0;
 .unreadPill-3nEWYM {
     background-color: var(--background-shading);
     color: #fb5454;
-    font-size: 12px;
+    font-size: 20px;
     letter-spacing: 20px;
     right: 50%;
     left: 50%;
@@ -704,11 +704,11 @@ opacity: 0;
 /*custom channel and text area font and size*/
 .channelName-3KPsGw  {
   font-family: "Poppins";
-  font-size: 12px!important;
+  font-size: 20px!important;
 }
 .messageContent-2t3eCI, .contents-2MsGLg {
   font-family: Poppins;
-  font-size: 13px!important;
+  font-size: 20px!important;
 }
 /*custom public servers and create server buttons*/
 /*custom public servers and create server buttons*/
@@ -1199,12 +1199,12 @@ width: auto;
 .theme-dark .children-1xdcWE .disableButton-3BR0Vj.colorRed-rQXKgM::before {
   content: "Disable";
   position: absolute;
-  font-size: 11px!important;
+  font-size: 20px!important;
 }
 .theme-dark .children-1xdcWE .lookOutlined-3yKVGo.colorRed-rQXKgM::before {
   content: "Delete";
   position: absolute;
-  font-size: 11px!important;
+  font-size: 20px!important;
 }
 /*seperator in settings*/
 .theme-dark .separator-2wx7h6 {
@@ -1613,7 +1613,7 @@ height: 218px!important;
 }
 .art-3sVxAs ~ .footer-31IekZ > .button-f2h6uQ:after{
   content: 'Back to safety';
-  font-size: 12px;
+  font-size: 20px;
 }
 /* pin home and add/public server */
 .scroller-3X7KbA {
@@ -1778,7 +1778,7 @@ opacity: var(--transparency);
     margin-right: -3px;
 }
 .blockedSystemMessage-3FmE9n .content-vSHmMD {
-    font-size: 12px !important;
+    font-size: 20px !important;
     font-weight: 500;
     padding: 1px 0;
     text-transform: uppercase;
