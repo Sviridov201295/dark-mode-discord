@@ -705,11 +705,11 @@ opacity: 0;
 /*custom channel and text area font and size*/
 .channelName-3KPsGw  {
   font-family: "Montserrat";
-  font-size: 12px!important;
+  font-size: 13px!important;
 }
 .messageContent-2t3eCI, .contents-2MsGLg {
   font-family: Montserrat;
-  font-size: 13px!important;
+  font-size: 15px!important;
 }
 /*custom public servers and create server buttons*/
 .theme-light .guilds-2JjMmN .scroller-3X7KbA .circleIconButton-1VxDrg {border-radius: 50px;background: rgba(0, 0, 0, 0.1);color: rgb(0, 0, 0);transition: all 0.4s;border: dashed 1px rgba(0, 0, 0, 0.4);}
