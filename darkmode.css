@@ -170,7 +170,7 @@ display: none !important;
 }
 .theme-dark .wordmark-2u86JB::before{
 content:'‏‏‎ c h i l l a x';
-font-size: 12px;
+font-size: 20px;
 font-family: "Poiret one"!important;
 position:fixed;
 color: rgb(255, 255, 255);
@@ -194,7 +194,7 @@ letter-spacing: 2px;
   color: #000!important;
   box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.1);
   font-family: "Roboto";
-  font-size: 12px;
+  font-size: 20px;
 }
 .theme-dark .lookFilled-yCfaCM:hover {
     box-shadow: -3px -3px 7px #cfcfcf inset, 3px 3px 7px #949aa1 inset;
@@ -233,7 +233,7 @@ letter-spacing: 2px;
   content: "Life is so much easier when you just take a time to chill";
   color: rgba(255, 255, 255, 0.200);
   font-family: "Poppins";
-  font-size: 13px;
+  font-size: 20px;
   visibility: visible!important;
 }
 /* Replace Wandering Cubes Spinner/loading discord image with gif*/
